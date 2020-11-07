@@ -21,6 +21,10 @@ h1 {
     color: #ffffff;
 }
 
+.seo {
+    color: #d9dcd6;
+}
+
 .nav li {
     display: inline-block;
     position: static;
