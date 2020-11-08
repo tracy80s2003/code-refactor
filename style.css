@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+#hero {
     height: auto;
     width: 100%;
     margin-bottom: 25px;
@@ -89,17 +89,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
