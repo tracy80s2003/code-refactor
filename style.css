@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and navigation */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,6 +34,7 @@ h1 {
     font-size: 20px;
 }
 
+/* links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -41,10 +43,6 @@ a {
 /* mouse over link */
 a:hover {
     color: cyan;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -56,6 +54,10 @@ p {
     background-size: cover;
     background-position: center;
     overflow: hidden;
+}
+
+p {
+    font-size: 16px;
 }
 
 .float-left, .float-right {
@@ -97,6 +99,7 @@ p {
     max-width: 150px;
 }
 
+/* main content area */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,6 +118,7 @@ p {
     font-size: 36px;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
