@@ -15,6 +15,4 @@ a:hover {
 }
 
 
-Lastly, if your project is deployed, include a link to the deployed application here.
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+https://github.com/tracy80s2003/code-refactor
